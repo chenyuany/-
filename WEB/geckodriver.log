@@ -1,0 +1,25 @@
+1495678651798	geckodriver	INFO	Listening on 127.0.0.1:63822
+1495678653856	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ImfIu5EWEVSg
+1495678653861	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1495678654115	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63831
+1495678656038	Marionette	INFO	Listening on port 63831
+JavaScript error: https://172.16.10.195/fort/login, line 35: TypeError: sso.update is not a function
+1495679339659	geckodriver	INFO	Listening on 127.0.0.1:64120
+1495679341628	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.iZ5HVCzOtb7A
+1495679341633	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1495679341890	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64126
+1495679349603	Marionette	INFO	Listening on port 64126
+JavaScript error: https://172.16.10.195/fort/login, line 35: TypeError: sso.update is not a function
+JavaScript error: https://172.16.10.195/fort/login, line 35: TypeError: sso.update is not a function
+1495679439779	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.o1mJUiSyCB8r
+1495679381635	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1495679381869	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64158
+1495679384027	Marionette	INFO	Listening on port 64158
+JavaScript error: https://172.16.10.195/fort/login, line 35: TypeError: sso.update is not a function
+1495679416355	geckodriver	INFO	Listening on 127.0.0.1:64186
+1495679418411	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.qb9uvLeSJFFM
+1495679418415	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1495679418663	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64194
+1495679420745	Marionette	INFO	Listening on port 64194
+JavaScript error: https://172.16.10.195/fort/login, line 35: TypeError: sso.update is not a function
